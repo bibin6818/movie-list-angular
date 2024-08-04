@@ -1,4 +1,4 @@
-// movie-catalog.component.ts
+// src/app/movie-catalog/movie-catalog.component.ts
 import { Component, OnInit } from '@angular/core';
 import { MovieService } from '../movie.service';
 
